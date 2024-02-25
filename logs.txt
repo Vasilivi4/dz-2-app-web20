@@ -1,0 +1,15 @@
+[12:30:16] Adressbook has been created!
+[12:31:52] Contact Sasha has been added.
+[12:31:52] Addressbook has been saved!
+[12:32:44] Addressbook has been saved!
+[00:51:30] AddressBook has been loaded!
+[00:52:55] Contact Sasha has been added.
+[00:52:55] AddressBook has been saved!
+[00:56:54] AddressBook has been loaded!
+[00:57:22] AddressBook has been saved!
+[00:57:50] AddressBook has been loaded!
+[00:58:26] AddressBook has been loaded!
+[00:59:31] AddressBook has been saved!
+[01:00:09] AddressBook has been saved!
+[01:01:44] AddressBook has been loaded!
+[01:03:24] AddressBook has been loaded!
